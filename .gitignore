@@ -1,6 +1,5 @@
 *.class
-*.pdf
-*.docx
+personal/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
