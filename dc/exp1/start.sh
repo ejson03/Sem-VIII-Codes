@@ -1,4 +1,3 @@
-sudo apt install rpcbind
 
 sudo rpcbind start || true
 rpcgen rpcsquare.x
