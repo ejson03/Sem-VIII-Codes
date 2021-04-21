@@ -199,3 +199,38 @@ void main() {
    bully();
    getch();
 }
+
+/*OUTPUT 
+nEnter how many process: 6                                                                                                                      
+                                                                                                                                                
+Enter priority of process 1: 1                                                                                                                  
+                                                                                                                                                
+Is process with id 1 is active ?(0/1) :1                                                                                                        
+                                                                                                                                                
+Enter priority of process 2: 2                                                                                                                  
+                                                                                                                                                
+Is process with id 2 is active ?(0/1) :1                                                                                                        
+                                                                                                                                                
+Enter priority of process 3: 3                                                                                                                  
+                                                                                                                                                
+Is process with id 3 is active ?(0/1) :1                                                                                                        
+                                                                                                                                                
+Enter priority of process 4: 4                                                                                                                  
+                                                                                                                                                
+Is process with id 4 is active ?(0/1) :1                                                                                                        
+                                                                                                                                                
+Enter priority of process 5: 5                                                                                                                  
+                                                                                                                                                
+Is process with id 5 is active ?(0/1) :1                                                                                                        
+                                                                                                                                                
+Enter priority of process 6: 6                                                                                                                  
+                                                                                                                                                
+Is process with id 6 is active ?(0/1) :0                                                                                                        
+                                                                                                                                                
+Enter the process id that invokes election algorithm: 4                                                                                         
+                                                                                                                                                
+Process with id 4 has invoked election algorithm                                                                                                
+Election message is sent to processes56                                                                                                         
+        Process with the id 5 is the co-ordinator                                                                                               
+Do you want to continue?(y/n):  n
+*/                                                                                                                
